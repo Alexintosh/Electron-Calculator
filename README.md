@@ -34,7 +34,7 @@ Run index.html to see it in action!
 
 ## License
 
-MIT
+[MIT](https://opensource.org/licenses/MIT)
 
 ## My other Projects
 
