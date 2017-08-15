@@ -1,4 +1,4 @@
-# material_calculator(https://badge.fury.io/js/material_calculator.svg)](https://www.npmjs.com/package/material_calculator)
+# material_calculator [![npm version](https://badge.fury.io/js/material_calculator.svg)](https://badge.fury.io/js/material_calculator)
 
 Simple Web Calculator Designed with Material Design :)
 
