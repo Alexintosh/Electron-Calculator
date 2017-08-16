@@ -18,7 +18,4 @@
     "url": "https://github.com/xxczaki/calculator.js/issues"
   },
   "homepage": "https://github.com/xxczaki/calculator.js"
-  ],
-  "engines": {
-    "node": "8.2.1"
-  }
+}
