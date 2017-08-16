@@ -37,6 +37,7 @@ Run index.html to see it in action!
 * JAVASCRIPT 5
 * Bootstrap 3
 * JQuery 2.1.4
+* Google Fonts
 
 ## License
 
