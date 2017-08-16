@@ -2,6 +2,10 @@
 
 Simple Web Calculator Designed with Material Design :)
 
+## Demo
+
+Click [HERE](https://calculator.akepinski.me) to see live demo.
+
 ## Features
 
 - Simple to use
