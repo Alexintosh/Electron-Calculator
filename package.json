@@ -2,7 +2,6 @@
   "name": "material_calculator",
   "description": "Simple Web Calculator made with Google Material Design",
   "version": "1.1.6",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,8 +11,8 @@
     "url": "https://github.com/xxczaki/calculator.js.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Antoni Kepinski <hello@akepinski.me>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/xxczaki/calculator.js/issues"
   },
