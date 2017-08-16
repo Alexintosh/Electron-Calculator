@@ -20,6 +20,8 @@ You can also download this repository or click buttons below:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xxczaki/calculator.js)
 
+Note: Deploy to Heroku doesn't work :( I have no idea how to fix it, but if you know - Please make a pull request :)
+
 ## Usage
 
 Run index.html to see it in action!
