@@ -1,9 +1,6 @@
 body {
   background-color: #424242;
-  background-image: linear-gradient(50deg, #212121, #424242);
   color: rgba(255, 255, 255, 0.85);
-  padding-top: 2%;
-  height: 100vh;
   font-family: 'Roboto Mono', monospace;
 }
 
@@ -18,7 +15,7 @@ a, .btn {
 }
 
 .container {
-  width: 94%;
+   width: 100%;
 }
 
 :focus {
@@ -155,75 +152,4 @@ a, .btn {
 .btn-question:hover {
   background: rgba(255, 255, 255, 0.2);
   color: #FFF;
-}
-
-
-/* MEDIA QUERIES */
-
-@media only screen and (max-width: 768px) {
-  body {
-    padding-top: 1.3em;
-  }
-  .calculator {
-    height: 590px;
-    box-shadow: 2px 3px 6px #888;
-  }
-  .displayBox {
-    height: 150px;
-  }
-  .displayText {
-    margin-top: 80px;
-    font-size: 50px;
-  }
-  .btn-calc, .btn-calc:focus {
-    width: 70px;
-    height: 70px;
-    font-size: 18px;
-  }
-  .operationSide {
-    padding: 0;
-  }
-  .btn-operation, .btn-operation:focus {
-    width: 60px;
-    height: 60px;
-    font-size: 18px;
-  }
-  .clear, .clear:focus {
-    width: 70px;
-    height: 70px;
-    font-size: 18px;
-  }
-  .equals, .equals:focus {
-    width: 62px;
-    height: 63px;
-    margin-top: 1px;
-  }
-  .modal-dialog {
-    width: 100%;
-  }
-}
-
-@media only screen and (min-width: 1440px) {
-  .container {
-    width: 85%;
-  }
-  .btn-calc, .clear, .btn-calc:focus, .clear:focus {
-    width: 80px;
-    height: 80px;
-  }
-  .equals, .equals:focus {
-    width: 100%;
-    height: 96px;
-  }
-}
-
-.hvr-radial-out:before {
-  background: #FFF !important;
-  border-radius: 100%;
-  transition-duration: 0.5s;
-}
-
-.hvr-fade:before {
-  background: #FFF !important;
-  transition-duration: 0.5s;
 }
