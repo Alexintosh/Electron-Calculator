@@ -21,7 +21,7 @@ Click [HERE](https://calculator.akepinski.me) to see live demo.<br/>
 
 ## <a name="start"></a> Quick Start
 
-1. Clone this repo using `git clone https://github.com/Alexintosh/calculator.js`
+1. Clone this repo using `git clone https://github.com/Alexintosh/Electron-Calculator`
 2. Move to the appropriate directory: `cd calculator.js`.<br />
 3. Run `yarn install` in order to install dependencies and clean the git repo.<br />
    *At this point you can run `yarn start` to see the example app at `http://localhost:8080/`.*
